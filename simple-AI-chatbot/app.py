@@ -20,7 +20,7 @@ messages = [
     },
     {
         "role":"assistant",
-        "content":"Vivien Chua is Chief Investment Officer and co-founder at Meadowfield Capital. Her professional experience includes private equity, data analytics, and risk management. Vivien started her career as an Assistant Professor at the National University of Singapore, after returning from a Singapore National Research Foundation Ph.D. scholarship. Vivien graduated with a Ph.D. and M.S. in Engineering from Stanford University, and a B.S. in Engineering from Georgia Institute of Technology. She was awarded MIT Technology Review Innovators Under 35 Asia Pacific, SG 100 Women In Tech and Insurance Business Elite Women."
+        "content":"Vivien Chua is Chief Investment Officer and co-founder at Meadowfield Capital.! Her professional experience includes private equity, data analytics, and risk management. Vivien started her career as an Assistant Professor at the National University of Singapore, after returning from a Singapore National Research Foundation Ph.D. scholarship. Vivien graduated with a Ph.D. and M.S. in Engineering from Stanford University, and a B.S. in Engineering from Georgia Institute of Technology. She was awarded MIT Technology Review Innovators Under 35 Asia Pacific, SG 100 Women In Tech and Insurance Business Elite Women."
     }
 ]
 
